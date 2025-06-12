@@ -9,4 +9,4 @@ Google Colab Pro를 이용해 Computing Resource를 활용하여 Train and Test 
 
 - 🗒️`2025_ajou_capstone_YOLO_fune_tuning.ipynb` : 차량(`Car`), 번호판(`Number_Plate`), 교통신호등(`Traffic_Light`) 클래스 검출 모델을 Fine-tuning
 - 🗒️`DTRB_ocr_train.ipynb` : 번호판 문자 영역 인식용 OCR 모델 (`TPS-ResNet-BiLSTM-Attn`) 학습  
-- 🗒️'helmet_detection_training.ipynb' : 이륜차, 헬멧, 머리, 번호판 클래스 검출 모델을 Fine-tuning
+- 🗒️`helmet_detection_training.ipynb` : 이륜차, 헬멧, 머리, 번호판 클래스 검출 모델을 Fine-tuning
